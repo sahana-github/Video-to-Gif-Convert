@@ -17,4 +17,4 @@ This is a simple web application that converts short video clips to GIFs.
 3. Wait for the conversion to complete
 4. The converted GIF will be downloaded automatically
 
-Note: This application is set up for local use only. Additional setup would be required for deployment to a public server.
+To Use this [Click here](https://video-to-gif-convert.onrender.com)
